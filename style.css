@@ -1,0 +1,19 @@
+body {
+    display: block;
+    margin: 8px;
+}
+
+html {
+    color: -internal-root-color;
+}
+
+.rood {
+position: absolute;
+top: 40px; left: 40px;
+}
+
+
+.blauw {
+position: relative;
+top: 120px; left: 120px;
+}
